@@ -6,6 +6,6 @@
 ![python-3.8](https://badgen.net/pypi/python/black)
 ![ubuntu-20.04](https://img.shields.io/badge/ubuntu-20.04-blue "Ubuntu")
 
-Все задания пройдены. Получено **128.75** баллов из **130** возможных.
+
 
 
